@@ -1,16 +1,16 @@
-#Description
+# Description
 ***
 Bank automation works by pulling data from MySQL database.
 
-##MySQL Connection Information
+## MySQL Connection Information
 ***
 
-###Account Database Connection Information
+### Account Database Connection Information
 `kullaniciAdi = "root",
 kullaniciSifre = "",
 host = "localhost",
 dbName1 = "hesap", port = 3306`
-###User Database Connection Information
+### User Database Connection Information
 `kullaniciAdi = "root",
 kullaniciSifre = "",
 host = "localhost",
@@ -30,7 +30,7 @@ Example:
 
 ![resim2](KullaniciGiris.jpg)
 
-##Usage
+## Usage
 ***
 Bank automation login screen;
 
