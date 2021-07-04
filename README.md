@@ -4,6 +4,7 @@ Bank automation works by pulling data from MySQL database.
 
 ##MySQL Connection Information
 ***
+
 ###Account Database Connection Information
 `kullaniciAdi = "root",
 kullaniciSifre = "",
